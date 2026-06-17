@@ -5,9 +5,11 @@
 [![YOLOv8](https://img.shields.io/badge/YOLO-v8-green)](#)
 [![PPO](https://img.shields.io/badge/Reinforcement%20Learning-PPO-red)](#)
 [![GNN](https://img.shields.io/badge/Graph%20Neural%20Networks-GNN-purple)](#)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 
 🚦 Intelligent Transportation Systems | 👁️ Computer Vision | 🤖 Reinforcement Learning | 🕸️ Graph Neural Networks
+
+
 ---
 
 ## Overview
