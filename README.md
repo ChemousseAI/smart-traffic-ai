@@ -203,9 +203,3 @@ The implementations are intended for:
 - Reinforcement learning experimentation
 - Smart-city AI demonstrations
 
-
----
-
-## License
-
-This project is released under the MIT License.
